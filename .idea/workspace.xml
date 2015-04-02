@@ -2,50 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b952b9ca-bd33-4dbd-b6b0-57487d8042d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/icons/Bespin-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/icons/dummy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/css/sb-admin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/variables.less" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\plugins\morris.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\sb-admin-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\sb-admin.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\core.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\larger.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\list.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\path.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Bespin-background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Bespin.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Bespin.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\C3P0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\MCQ-cloudcity.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Vader.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\dummy.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\everything.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\icons.xcf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\star-wars-icons.ai" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\star-wars-icons.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\flot-data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\morris-data.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\morris.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\raphael.min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\platty\platty\templates\platty\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/home/templates/home/index.html" afterPath="$PROJECT_DIR$/platty/home/templates/home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/views.py" afterPath="$PROJECT_DIR$/platty/platty/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/master.html" afterPath="$PROJECT_DIR$/platty/platty/templates/master.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="platty.iws" />
@@ -108,8 +130,8 @@
       <file leaf-file-name="master.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/platty/platty/templates/master.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7012263" vertical-offset="2193" max-vertical-offset="3315">
-              <caret line="166" column="87" selection-start-line="166" selection-start-column="87" selection-end-line="166" selection-end-column="87" />
+            <state vertical-scroll-proportion="0.28428093" vertical-offset="0" max-vertical-offset="3281">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -355,42 +377,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -632,10 +618,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -769,8 +755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/platty/platty/templates/master.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7012263" vertical-offset="2193" max-vertical-offset="3315">
-          <caret line="166" column="87" selection-start-line="166" selection-start-column="87" selection-end-line="166" selection-end-column="87" />
+        <state vertical-scroll-proportion="0.28428093" vertical-offset="0" max-vertical-offset="3281">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
