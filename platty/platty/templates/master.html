@@ -43,7 +43,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Platty</a>
+                <a class="navbar-brand" href="../#">Platty</a>
             </div>
             <!-- Top Menu Items -->
             <ul class="nav navbar-right top-nav">
@@ -150,27 +150,31 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav nav-stacked">
                     <li class="active">
-                        <a href="#"><img src="{% static 'icons/Dummy.png' %}" />Home</a>
+                        <a href="../#"><img src="{% static 'icons/Dummy.png' %}" />Home</a>
                     </li>
                     <li>
-                        <a href="create.html"><img src="{% static 'icons/Dummy.png' %}" />Create</a>
+                        <a href="../create"><img src="{% static 'icons/Dummy.png' %}" />Create</a>
                     </li>
                     <li>
-                        <a href="find.html"><img src="{% static 'icons/Dummy.png' %}" />Find</a>
+                        <a href="../find"><img src="{% static 'icons/Dummy.png' %}" />Find</a>
                     </li>
                     <li>
-                        <a href="parties.html"><img src="{% static 'icons/Dummy.png' %}" />My Parties</a>
+                        <a href="../parties"><img src="{% static 'icons/Dummy.png' %}" />My Parties</a>
                     </li>
                     <li>
-                        <a href="profile.html"><img src="{% static 'icons/Dummy.png' %}" />Profile</a>
+                        <a href="../profile"><img src="{% static 'icons/Dummy.png' %}" />Profile</a>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </nav>
-
+        
+        <!-- Put News Feed Text within page-wrapper -->
         <div id="page-wrapper">
 			{% block content %}{% endblock %}
+            <div id="muffin-top">
+                {% block muffin %}{% endblock %}
+            </div>
 		</div>
 
     </div>
