@@ -11,7 +11,6 @@ urlpatterns = patterns('',
     url(r'^parties', 'platty.views.parties', name='parties'),
     url(r'^login', 'platty.views.login', name='login'),
     url(r'^profile', 'platty.views.profile', name='profile'),
-    url(r'^signin/', include('signin.urls')),
     url(r'^admin/', include(admin.site.urls)),
     url(r'^/', include('platty.urls')),   
 )
