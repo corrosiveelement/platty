@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.auth.models import User
+#from django.contrib.auth.models import User
 
 # Create your models here.
 #Eric - This is where database wrappers go
@@ -12,7 +12,7 @@ class Event(models.Model):
 	id = models.AutoField(primary_key=True)
 
 class Role(models.Model):
-	user = models.ForeignKey(User)
+#	user = models.ForeignKey(User)
 	event = models.ForeignKey(Event)
 	OWNER = 0
 	GOER = 1
@@ -31,12 +31,12 @@ class Requirement(models.Model):
 	id = models.AutoField(primary_key=True)
 
 class Contribution(models.Model):
-	user = models.ForeignKey(User)
+#	user = models.ForeignKey(User)
 	event = models.ForeignKey(Event)
 	requirement = models.ForeignKey(Requirement)
 	value = models.IntegerField(max_length=11)
 
 class Donation(models.Model):
-	user = models.ForeignKey(User)
+#	user = models.ForeignKey(User)
 	event = models.ForeignKey(Event)
 	value = models.DecimalField(max_digits=11, decimal_places=2)
