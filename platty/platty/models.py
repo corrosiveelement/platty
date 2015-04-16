@@ -1,13 +1,14 @@
 from django.db import models
 from django.contrib.auth.models import User
 
-# Create your models here.
-#Eric - This is where database wrappers go
-
 class Event(models.Model):
 	date_time = models.DateTimeField()
 	name = models.CharField(max_length=64)
-	location = models.CharField(max_length=128)
+	addressLineOne = models.CharField(max_length=128)
+	addressLineTwo = models.CharField(max_length=128)
+	city = models.CharField(max_length=36)
+	state = models.CharField(max_length=2)
+	zipCode = models.PositiveIntegerField(max_length=5)
 	description = models.CharField(max_length=1024)
 	id = models.AutoField(primary_key=True)
 
