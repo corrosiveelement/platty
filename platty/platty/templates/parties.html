@@ -1,5 +1,4 @@
-﻿
-{% extends "master.html" %}
+﻿{% extends "master.html" %}
 
 {% block content %}
 
@@ -9,12 +8,13 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">
-                Parties <small>Your parties</small>
+                Parties
+                <small>Your parties</small>
             </h1>
         </div>
     </div>
     <!-- /.row -->
-    
+
     <div class="row">
         <div class="col-lg-8">
             <h2>Hosting</h2>
@@ -23,6 +23,12 @@
                     <th>Name</th>
                     <th>Date</th>
                 </tr>
+                {% for party in event_list %}
+                <tr>
+                    <td><a href="../parties/{{party.id}}">{{party.name}}</a></td>
+                    <td>{{party.date_time}}</td>
+                </tr>
+                {% endfor %}
                 <tr>
                     <td><a href="#">The Best Party Ever</a></td>
                     <td>March 10, 2015</td>

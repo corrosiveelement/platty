@@ -2,73 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b952b9ca-bd33-4dbd-b6b0-57487d8042d0" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\plugins\morris.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\sb-admin-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\css\sb-admin.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\core.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\icons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\larger.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\list.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\path.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\font-awesome\scss\font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Bespin-background.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Bespin.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Bespin.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\C3P0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\MCQ-cloudcity.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\Vader.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\dummy.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\everything.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\icons.xcf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\star-wars-icons.ai" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\icons\star-wars-icons.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\excanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\flot-data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.pie.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.resize.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\flot\jquery.flot.tooltip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\morris-data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\morris.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\morris.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\html\js\plugins\morris\raphael.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Carson\Documents\GitHub\platty\platty\platty\templates\platty\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_spinning.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/platty/platty/static/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/platty/platty/static/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/platty/platty/static/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/platty/platty/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/create.html" afterPath="$PROJECT_DIR$/platty/platty/templates/create.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/find.html" afterPath="$PROJECT_DIR$/platty/platty/templates/find.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/index.html" afterPath="$PROJECT_DIR$/platty/platty/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/js/jquery.js" afterPath="$PROJECT_DIR$/platty/platty/static/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/login.html" afterPath="$PROJECT_DIR$/platty/platty/templates/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/master.html" afterPath="$PROJECT_DIR$/platty/platty/templates/master.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/models.py" afterPath="$PROJECT_DIR$/platty/platty/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/parties.html" afterPath="$PROJECT_DIR$/platty/platty/templates/parties.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/templates/profile.html" afterPath="$PROJECT_DIR$/platty/platty/templates/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/css/sb-admin.css" afterPath="$PROJECT_DIR$/platty/platty/static/css/sb-admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/settings.py" afterPath="$PROJECT_DIR$/platty/platty/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/spinning.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/urls.py" afterPath="$PROJECT_DIR$/platty/platty/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/platty/platty/static/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/views.py" afterPath="$PROJECT_DIR$/platty/platty/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platty/platty/wsgi.py" afterPath="$PROJECT_DIR$/platty/platty/wsgi.py" />
     </list>
     <ignored path="platty.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,23 +69,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platty/signin/urls.py">
+      <file leaf-file-name="master.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platty/platty/templates/master.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-6.3846154" vertical-offset="2656" max-vertical-offset="3553">
+              <caret line="166" column="50" selection-start-line="166" selection-start-column="44" selection-end-line="166" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/platty/platty/templates/find.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.696767" vertical-offset="922" max-vertical-offset="1853">
+              <caret line="91" column="61" selection-start-line="91" selection-start-column="61" selection-end-line="91" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parties.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platty/platty/templates/parties.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.730769" vertical-offset="395" max-vertical-offset="1292">
+              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platty/signin/views.py">
+        <entry file="file://$PROJECT_DIR$/platty/platty/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1581">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -117,22 +111,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platty/platty/templates/index.html">
+      <file leaf-file-name="create.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platty/platty/templates/create.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="391">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2244">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="master.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/platty/platty/templates/master.html">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platty/platty/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28428093" vertical-offset="0" max-vertical-offset="3281">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+              <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platty/platty/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,7 +146,7 @@
       <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28526">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="37179">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -150,17 +156,7 @@
       <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/platty/platty/static/js/bootstrap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39474">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sb-admin.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platty/platty/static/css/sb-admin.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4335">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39848">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -170,7 +166,7 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/platty/platty/static/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="107746">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130577">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -188,7 +184,13 @@
         <option value="$PROJECT_DIR$/platty/signin/urls.py" />
         <option value="$PROJECT_DIR$/platty/signin/views.py" />
         <option value="$PROJECT_DIR$/platty/platty/templates/index.html" />
+        <option value="$PROJECT_DIR$/platty/platty/models.py" />
         <option value="$PROJECT_DIR$/platty/platty/templates/master.html" />
+        <option value="$PROJECT_DIR$/platty/platty/templates/create.html" />
+        <option value="$PROJECT_DIR$/platty/platty/templates/parties.html" />
+        <option value="$PROJECT_DIR$/platty/platty/urls.py" />
+        <option value="$PROJECT_DIR$/platty/platty/views.py" />
+        <option value="$PROJECT_DIR$/platty/platty/templates/find.html" />
       </list>
     </option>
   </component>
@@ -224,7 +226,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,24 +272,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="signin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="platty" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -315,70 +298,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,6 +310,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -618,10 +541,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -666,57 +589,58 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/platty/signin/urls.py">
+    <entry file="file://$PROJECT_DIR$/platty/platty/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platty/signin/views.py">
+    <entry file="file://$PROJECT_DIR$/platty/platty/templates/master.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3281">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platty/platty/urls.py">
+    <entry file="file://$PROJECT_DIR$/platty/platty/static/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22101842" vertical-offset="0" max-vertical-offset="923">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28526">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platty/signin/urls.py">
+    <entry file="file://$PROJECT_DIR$/platty/platty/static/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39474">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platty/signin/views.py">
+    <entry file="file://$PROJECT_DIR$/platty/platty/static/css/sb-admin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4335">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="107746">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/platty/platty/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="391">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -753,10 +677,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/templates/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="2244">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/platty/platty/templates/master.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28428093" vertical-offset="0" max-vertical-offset="3281">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.3846154" vertical-offset="2656" max-vertical-offset="3553">
+          <caret line="166" column="50" selection-start-line="166" selection-start-column="44" selection-end-line="166" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1581">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/templates/parties.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.730769" vertical-offset="395" max-vertical-offset="1292">
+          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platty/platty/templates/find.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.696767" vertical-offset="922" max-vertical-offset="1853">
+          <caret line="91" column="61" selection-start-line="91" selection-start-column="61" selection-end-line="91" selection-end-column="61" />
           <folding />
         </state>
       </provider>
